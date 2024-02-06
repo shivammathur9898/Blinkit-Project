@@ -5,7 +5,7 @@
 *Using SQL queries and Tableau in this project, we will find insights into customer  behavior and preferences like frequently purchased items, sales trends  for specific categories, and customer feedbacks.*
 
 ## Languages and Tools Used
-**Mysql**
+**SQL**
 
 **DBeaver**
 
