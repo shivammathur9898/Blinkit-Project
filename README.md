@@ -43,6 +43,9 @@
 ![Screenshot (11)](https://github.com/shivammathur9898/Blinkit-Project/assets/154864683/b2a2381b-c737-41bb-88bb-ed20a64791d8)
 
 
+** SQL Queries are posted in file format  named Blinkit_Project.sql**
+
+
 
 
 
