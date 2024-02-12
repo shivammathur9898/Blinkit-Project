@@ -7,7 +7,7 @@
 ## Languages and Tools Used
 **SQL**
 
-**DBeaver**
+**MYSQL**
 
 **Tableau**
 
